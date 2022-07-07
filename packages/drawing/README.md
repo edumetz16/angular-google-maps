@@ -21,7 +21,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component'
 // add these imports
-import { AgmCoreModule } from '@agm/core';
+import { AgmCoreModule } from '@edumetz16/agm-core';
 import { AgmDrawingModule } from '@agm/drawing'
 @NgModule({
   declarations: [

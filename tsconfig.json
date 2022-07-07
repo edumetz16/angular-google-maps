@@ -18,7 +18,7 @@
       "dom"
     ],
     "paths": {
-      "@agm/core": [
+      "@edumetz16/agm-core": [
         "dist/core/agm-core",
         "dist/core"
       ],
