@@ -1,5 +1,6 @@
 [![AGM - Angular Google Maps](assets/images/angular-google-maps-logo.png)](https://angular-maps.com/)
 
+> :warning: This is a fork of https://github.com/sebholstein/angular-google-maps. All credits go to the original author.
 # AGM - Angular Google Maps
 
 Angular components for Google Maps. (Previously known as angular2-google-maps)
