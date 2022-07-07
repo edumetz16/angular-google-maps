@@ -1,6 +1,6 @@
 {
   "name": "@edumetz16/agm-core2",
-  "version": "12.2.16-patch4",
+  "version": "13.0.1",
   "description": "Angular components for Google Maps",
   "author": "Eduardo Metzger <eduardo@linead.com.ar>",
   "license": "MIT",
@@ -21,8 +21,8 @@
     "gmaps"
   ],
   "peerDependencies": {
-    "@angular/common": "^9.1.0 || ^10.0.0 || ^11.0.0 || ^12.0.0",
-    "@angular/core": "^9.1.0 || ^10.0.0 || ^11.0.0 || ^12.0.0"
+    "@angular/common": "^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0",
+    "@angular/core": "^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0"
   },
   "dependencies": {
     "tslib": "^2.0.0"

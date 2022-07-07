@@ -1,6 +1,6 @@
 {
   "name": "@edumetz16/agm-drawing",
-  "version": "12.2.16",
+  "version": "13.0.1",
   "description": "Angular Google Maps (AGM) extension for google maps drawing library",
   "author": "Feliks Khantsis",
   "license": "MIT",
@@ -20,8 +20,8 @@
     "map-drawing"
   ],
   "peerDependencies": {
-    "@angular/common": "^12.0.0",
-    "@angular/core": "^12.0.0"
+    "@angular/common": "^13.0.0",
+    "@angular/core": "^13.0.0"
   },
   "dependencies": {
     "tslib": "^2.0.0"
