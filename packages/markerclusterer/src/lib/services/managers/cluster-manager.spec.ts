@@ -1,4 +1,4 @@
-import { AgmMarker, GoogleMapsAPIWrapper } from '@edumetz16/agm-core';
+import { AgmMarker, GoogleMapsAPIWrapper } from '@edumetz16/agm-core2';
 import { NgZone } from '@angular/core';
 import { async, inject, TestBed } from '@angular/core/testing';
 import MarkerClusterer from '@google/markerclustererplus';

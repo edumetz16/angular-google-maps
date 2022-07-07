@@ -2,7 +2,7 @@ import { Directive, EventEmitter, Input, OnChanges, OnDestroy, OnInit, Output, S
 
 import { Subscription } from 'rxjs';
 
-import { InfoWindowManager, MarkerManager } from '@edumetz16/agm-core';
+import { InfoWindowManager, MarkerManager } from '@edumetz16/agm-core2';
 import { ClusterIconStyle, MarkerClustererOptions } from '@google/markerclustererplus';
 import { Calculator } from '@google/markerclustererplus/dist/markerclusterer';
 import { ClusterManager } from '../services/managers/cluster-manager';

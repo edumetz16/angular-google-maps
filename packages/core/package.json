@@ -1,6 +1,6 @@
 {
   "name": "@edumetz16/agm-core2",
-  "version": "12.2.16",
+  "version": "12.2.16-patch4",
   "description": "Angular components for Google Maps",
   "author": "Eduardo Metzger <eduardo@linead.com.ar>",
   "license": "MIT",
